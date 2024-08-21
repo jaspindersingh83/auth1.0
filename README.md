@@ -5,6 +5,10 @@ Topics:
   * Passwords
   * Authentication
 
+## Description
+In the lecture, we presented three seemingly disparate concepts: middleware,
+sessions, and passwords. For this lab, your job will be to combine these
+concepts into one authentication system.
 
 ## Running the Project
 - Run `npm install` to download the dependencies.
