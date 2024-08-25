@@ -1,7 +1,7 @@
 # Auth Lab
 Topics:
   * Express Middleware
-  * Sessions
+  * Sessions. See how [express-session works](https://stackoverflow.com/questions/28789857/how-is-the-express-req-session-object-persisted)
   * Passwords
   * Authentication
   * Using bcrypt and [time needed to crack](https://specopssoft.com/blog/hashing-algorithm-cracking-bcrypt-passwords/#:~:text=Time%20taken%20to%20crack%20bcrypt%20hashed%20passwords&text=Even%20with%20higher%20computer%20speeds,are%20designed%20to%20hash%20quickly.)
