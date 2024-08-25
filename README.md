@@ -50,9 +50,9 @@ Make sure to do proper validation and error checking. If there's any error,
 respond with an appropriate status and error message using the `sendUserError()`
 helper function.
 
-### `POST /log-in`
-The `POST /log-in` route expects two parameters: `username` and `password`. When
-the client makes a `POST` request to `/log-in`, check the given credentials and
+### `POST /login`
+The `POST /login` route expects two parameters: `username` and `password`. When
+the client makes a `POST` request to `/login`, check the given credentials and
 log in the appropriate user. Send the object `{ success: true }` as a JSON
 response if everything works out.
 
